@@ -21,3 +21,4 @@ awk
 grep
 sed
 vim
+rm
