@@ -1,0 +1,23 @@
+cd -> change directory 
+pwd -> show current user directory 
+cp >- copy file 
+mv -> move and rename file
+cat -> file content show and redirect the output to new file.
+echo -> print content example #echo "hello" 
+mkdir
+ls 
+ifconfig
+yum
+netstate
+ping
+telnet
+adduser
+deluser
+addgroup
+top -c
+free -m
+df -h 
+awk 
+grep
+sed
+vim
